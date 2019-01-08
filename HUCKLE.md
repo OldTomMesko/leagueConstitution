@@ -96,6 +96,7 @@ The Commissioner can nominate up to two Co-Commissioners who will then require a
 - In offseason, free agency will operate on a first-come first-serve (FCFS) basis.
 - During season, waivers will process on Wednesday morning at 9am EST. After waivers process, FCFS. 
 - Waivers work in a rolling manner; once you use your position, you move to the last position. 
+- After a player is dropped, they will be locked for 24 hours, upon the completion of which they will become an available free agent. 
 
 
 ### Trades ###
