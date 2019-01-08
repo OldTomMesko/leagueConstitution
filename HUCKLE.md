@@ -68,6 +68,9 @@ The Commissioner can nominate up to two Co-Commissioners who will then require a
 
 ## __Section IV - Rosters__ ##
 
+- During the course of the regular season, active rosters will have a maximum of 34 players. 5 players can be kept on IR. 7 players can be kept on the taxi squad. 
+- The taxi squad is limited to rookie players. Once a player has been on your active roster during a game in any week, they are ineligible to be returned to the taxi squad. 
+- No taxi squad poaching is allowed. 
 
    Position | Starters | Maximum
    -------- |--------- | -------
@@ -115,7 +118,7 @@ The Commissioner can nominate up to two Co-Commissioners who will then require a
 
 ### Rookie Draft Settings ###
 - There will be 6 rounds of the rookie draft.
-- The rookie draft will take place the Monday immediately following the completion of the NFL draft.
+- The rookie draft will take place the Monday immediately following the completion of the NFL draft, beginning at 12noon EST.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
 - Each day the draft will last from 8AM to 11PM with each team having 8 hours per pick.
 - Trading draft picks is allowed during the rookie draft
@@ -137,6 +140,15 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - Weeks 1, 2, 10, 11, and 12 will be division matchups. 
 - Week 13 will be rivalry week. Each year, each team will face their pre-determined rival, with the winner of the matchup gaining a three point homefield advantage for the next season's matchup. 
 - Playoffs begin week 14 with the championship game occuring week 16.
+
+### Offseason Schedule ### 
+- Free Agency locks - Conclusion of NFL Week 16/Hucklebeary Championship
+- Rosters trimmed to 34 (total of Active, Taxi, and IR) - Conclusion of NFL Super Bowl
+- Free Agency and Trading Open - 9pm EST the Monday after NFL Super Bowl
+- Rookie draft will occur the Monday immediately following the NFL draft, beginning at 12noon EST. 
+- Upon starting the rookie draft, rosters will expand to 40 players. The 7 player taxi squad will also open at this time. 
+- Rosters will remain at 40 active players and 7 taxi members throughout the offseason. 
+- Active rosters must be trimmed back down to 34 players by 9pm EST the Monday before the NFL season begins. 
 
 <br><br>
 
