@@ -11,15 +11,11 @@
 - [Free Agency & Trading](#section-v---free-agency--trading)
   - [Free Agency](#free-agency)
   - [Trading](#trades)
-- [Startup Draft](#section-vi---startup-draft)
-- [Rookie Draft](#section-vii---rookie-draft)
-- [Divisions & Schedule](#section-viii---divisions--schedule)
+- [Rookie Draft](#section-vi---rookie-draft)
+- [Divisions & Schedule](#section-vii---divisions--schedule)
    - [Divisions](#divisions)
    - [Schedule](#regular-season-schedule)
-- [Playoffs](#section-ix---playoffs)
-   - [Championship](#championship-bracket)
-   - [Consolation](#consolation-bracket)
-- [Scoring](#section-x---scoring)
+- [Scoring](#section-viii---scoring)
 <br>
 <br>
 
