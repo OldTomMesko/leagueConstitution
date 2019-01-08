@@ -43,7 +43,10 @@ The Co-Commissioners will have all site powers the league commissioner has so th
 The Commissioner can nominate up to two Co-Commissioners who will then require a majority vote by the rest of the league to be appointed.
 <br>
 ### Dispute Arbitration and Rule Changes ###
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+- The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+- Any league member has the ability to propose rule changes. 
+- Any and all league changes must pass through a league vote, where a simple majority (7 votes) is enough for the vote to pass. - The commissioner's vote breaks the tie in such scenarios. 
+- The commissioner reserves the right to prohibit a proposed change from going to vote. A suggested change does not immediately enter league vote. 
 <br>
 
 ### Collusion ###
